@@ -10,7 +10,7 @@ This is a simple and responsive web app that generates multiple random HEX color
 - HEX code is displayed inside each colored box
 
 ## 🌐 Live Preview
-🔗 [View Live Site](https://your-github-username.github.io/randomColorGenerator/) 
+🔗 [View Live Site](https://tubhyam14.github.io/randomColorGenerator/) 
 
 
 ## 🧪 Technologies Used
