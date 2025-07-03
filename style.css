@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    justify-items: center;
+    row-gap: 20px;
+}
+
+.contaner {
+    height: 100px;
+    width: 100px;
+    margin: 20px 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    box-shadow:  0 0 5px rgba(0,0,0,0.5);
+}
+
+.contaner:hover {
+    transform: scale(1.05);
+    transition: transform 0.2s ease;
+}
+
